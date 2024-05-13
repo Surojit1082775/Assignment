@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap');
+
+
+
+:root{
+  --cyan: #265169;
+}
+
+body{
+  font-family: "Montserrat", sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+  color:var(--cyan);
+  margin:0;
+  padding:0;
+}
